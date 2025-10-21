@@ -1,0 +1,62 @@
+---
+title: "Enunciados Problemas TD"
+author: "Benedetta Palmieri"
+format:
+  typst:
+    fig-format: png
+  html: default
+editor: visual
+---
+
+## Problemas Benedetta
+
+## Problema 1
+
+Aplicar los criterios de decisión bajo incertidumbre para los casos de beneficios y costes sobre los datos de la tabla siguiente, usando las funciones individuales de incertidumbre e indicando la alternativa óptima según cada criterio.
+
+|        | **e1** | **e2** | **e3** |
+|--------|--------|--------|--------|
+| **d1** | 30     | 55     | 110    |
+| **d2** | 65     | 45     | 40     |
+| **d3** | 80     | 60     | 35     |
+
+## Problema 2
+
+La empresa **Lavazza S.p.A.**, reconocida marca italiana de café, está planificando el **lanzamiento de una nueva línea de cápsulas ecológicas** elaboradas con materiales biodegradables y compostables.\
+El objetivo es reforzar su imagen de sostenibilidad y responder a la creciente demanda de productos respetuosos con el medio ambiente.
+
+El equipo directivo debe decidir qué estrategia de lanzamiento adoptar. Después de un análisis preliminar, se consideran tres alternativas estratégicas posibles:
+
+-   **Cafeterías asociadas:** promoción a través de cafeterías asociadas y punto de venta tradicionales.
+
+-   **Campaña mixta:** campaña mixta que combine publicidad digital (redes sociales, influencers) y participación en ferias gastronomicas internacionales.
+
+-   **E-commerce:** lanzamiento exclusivamente online, mediante la web oficial de Lavazza y plataformas de comercio electrónico (por ejemplo, Amazon).
+
+Cada estrategia requiere un coste inicial diferente y genera niveles distintos de ventas, según la demanda real del mercado que es incierta. Se consideran tres escenarios posibles:
+
+-   **Demanda Alta:** Los consumidores adoptan rápidamente el nuevo producto.
+
+-   **Demanda Media:** Las ventas son estables pero moderadas.
+
+-   **Demanda Baja:** El interés por el producto ecológico es limitado.
+
+A partir de estudios de mercado, se estiman las entradas (ingresos) y salidas (costes) siguientes, expresadas en miles de euros.
+
+Ingresos estimados (en miles de €):
+
+|   | **Demanda Alta** | **Demanda Media** | **Demanda Baja** |
+|----|----|----|----|
+| **Cafeterías asociadas** | 150 | 100 | 60 |
+| **Campaña mixta** | 220 | 140 | 70 |
+| **E-commerce** | 130 | 100 | 80 |
+
+Costes estimados (en miles de €):
+
+|   | **Demanda Alta** | **Demanda Media** | **Demanda Baja** |
+|----|----|----|----|
+| **Cafeterías asociadas** | 80 | 60 | 50 |
+| **Campaña mixta** | 125 | 85 | 75 |
+| **E-commerce** | 70 | 55 | 55 |
+
+El objetivo del análisis es determinar qué alternativa resulta más conveniente para la empresa en función de los distintos escenarios posibles considerados.
