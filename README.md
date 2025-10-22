@@ -12,4 +12,4 @@ Repositorio con los enunciados y resoluciones del trabajo 01
 - "Problemas resueltos_Benedetta.qmd" : archivo qmd con los enunciados y las soluciones de los problemas 
 - "Problemas resueltos_Benedetta.pdf" : archivo pdf con los enunciados y las soluciones de los problemas 
 - "teoriadecision_funciones_incertidumbre.R" : código utilizado para resolver los ejercicios
-
+- "README.md" : esto repositorio
